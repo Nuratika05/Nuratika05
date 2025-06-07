@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Nuratika
+- 👀 I'm interested in Laravel framework dan pengembangan web
+- 🌱 I'm currently learning Lebih tentang Laravel dan teknologi terkait
+- 💞️ I'm looking to collaborate on Proyek-proyek Laravel dan pengembangan web
+- 📫 How to reach me nuratika0552@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Introvert yang suka coding dan membuat aplikasi web
